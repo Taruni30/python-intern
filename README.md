@@ -7,3 +7,7 @@ This Github repository contains a simple python program that:
 
 ##File
 -->hello_world.py
+##Screenshots
+-->output screenshot(output.png.png)
+-->pythonverify screenshot(pythonverify.png.png)
+-->vscode screenshot(vscode.png.png)
